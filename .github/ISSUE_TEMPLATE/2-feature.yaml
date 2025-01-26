@@ -1,6 +1,6 @@
 name: Feature Request
 description: Suggest new functionality or commands
-title: " "
+title: "feat: "
 labels: ["feature"]
 assignees:
   - geoversed
@@ -11,7 +11,7 @@ body:
       label: Is your feature request related to a problem?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: " "
+      value: "..."
     validations:
       required: true
   - type: textarea
@@ -20,7 +20,7 @@ body:
       label: Describe the solution you would like
       description: Describe what you want to happen.
       placeholder: Break down each component, describing its purpose.
-      value: " "
+      value: "..."
     validations:
       required: true
   - type: textarea
@@ -29,4 +29,4 @@ body:
       label: Describe alternatives you've considered
       description: Optionally, describe alternative solutions you've considered.
       placeholder: Break down each component, describing its purpose.
-      value: " "
+      value: "..."
