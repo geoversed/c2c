@@ -1,0 +1,37 @@
+name: Bug Report
+description: Report a bug in the code logic or syntax
+title: ""
+labels: ["bug"]
+projects: ["geoversed/1"]
+assignees:
+  - geoversed
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Include reproduction steps as well.
+      placeholder: Tell us what you saw. You may include screenshots to help showcase your problem.
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behaviour
+      description: What did you expect to happen?
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    id: contextual-info
+    attributes:
+      label: Additional Context
+      description: This is optional, add some background context to help us understand why this happened.
+      value: ""
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: If possible, copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
