@@ -17,26 +17,11 @@
   </a>
 </p>
 
-> [!NOTE]
-> I have limited time available to dedicate to this project.
-> 
-> Most issues and pull requests submitted will not be receiving much attention until the next semester.
-
-## Installation
-Not supported currently because of the evolving database schema. This will be available when it is made final.
-
-We are not responsible for any errors that may occur when running this bot on your own. It is also **not** production-ready.
+> [!IMPORTANT]
+> Up to date source code can now be found on [Codeberg.](https://codeberg.org/geoversed/c2c) 
 
 ## Features
 - 💰 Economy system continuously worked on
 - ⚙️ Useful QoL features and APIs
 - ⚔️ Advanced role management
 - 🏷️ Tagging text by storing it for later retrieval
-
-## Credits
-- [Jake Lee](https://blog.jakelee.co.uk/converting-levels-into-xp-vice-versa)
-- [RDanny](https://github.com/Rapptz/RoboDanny)
-- [RMysty](https://github.com/EvieePy/RMysty)
-- [Salamander](https://github.com/mikeshardmind/salamander-reloaded/)
-- [async-utils](https://github.com/mikeshardmind/async-utils/)
-- [discord.py](https://github.com/Rapptz/discord.py)
